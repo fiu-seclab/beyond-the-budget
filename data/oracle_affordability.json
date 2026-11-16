@@ -1,0 +1,1802 @@
+[
+ {
+  "rid": "PR058d6d0b_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR058d6d0b_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PR058d6d0b_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PR058d6d0b_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 5,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR058d6d0b_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR175d9a0a_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PR175d9a0a_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PR175d9a0a_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR175d9a0a_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR175d9a0a_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR2dbbd2d0_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR8cfb3889_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PR8cfb3889_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PR8cfb3889_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PR8cfb3889_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PR8cfb3889_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRa540813c_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRa540813c_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRdeepseek_dee_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRef48de15_none75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRef48de15_none75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRef48de15_none75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRef48de15_none75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRef48de15_none75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmetallama_l_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmetallama_l_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRmoonshotai_k_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRnvidia_nemot_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_cumu75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_0",
+  "episode": "S0",
+  "need": 5,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_1",
+  "episode": "S3",
+  "need": 4,
+  "recovered": 4,
+  "derived": 3,
+  "truth": 3,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_2",
+  "episode": "S4",
+  "need": 6,
+  "recovered": 4,
+  "derived": 2,
+  "truth": 2,
+  "spend": 4.5,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_3",
+  "episode": "S6",
+  "need": 3,
+  "recovered": 1,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_4",
+  "episode": "S10",
+  "need": 4,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.0,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_5",
+  "episode": "S11",
+  "need": 5,
+  "recovered": 4,
+  "derived": 4,
+  "truth": 4,
+  "spend": 3.75,
+  "solvable": false
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_6",
+  "episode": "S20",
+  "need": 5,
+  "recovered": 5,
+  "derived": 1,
+  "truth": 1,
+  "spend": 3.75,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_7",
+  "episode": "S21",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_8",
+  "episode": "S22",
+  "need": 3,
+  "recovered": 3,
+  "derived": 3,
+  "truth": 3,
+  "spend": 2.25,
+  "solvable": true
+ },
+ {
+  "rid": "PRzai_glm4.6_per_75_9",
+  "episode": "S26",
+  "need": 3,
+  "recovered": 3,
+  "derived": 1,
+  "truth": 1,
+  "spend": 2.25,
+  "solvable": true
+ }
+]

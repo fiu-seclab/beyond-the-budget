@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+harness/runs/
+harness/host/
+harness/x402/
+.env
+*.egg-info

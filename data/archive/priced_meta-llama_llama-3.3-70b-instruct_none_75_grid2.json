@@ -1,0 +1,89 @@
+{
+ "model": "meta-llama/llama-3.3-70b-instruct",
+ "policy": "none",
+ "price": 0.75,
+ "cap": 5.0,
+ "n": 20,
+ "results": [
+  {
+   "rid": "PRa540813c_none75_0",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_1",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_2",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_3",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_4",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_5",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_6",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_7",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_8",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_9",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_10",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_11",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_12",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_13",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_14",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_15",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_16",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_17",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_18",
+   "error": "staging_failed"
+  },
+  {
+   "rid": "PRa540813c_none75_19",
+   "error": "staging_failed"
+  }
+ ]
+}
