@@ -1,4 +1,4 @@
-# Beyond the Budget: Tool-Induced Spending Violations in Autonomous Agents
+# Beyond the Budget: Auditing Delegated Spending Limits in Autonomous Agents
 
 This repository is the artifact for the paper. It contains a harness in which an LLM agent answers a question by buying memories from a priced memory service, under a spending limit. It also contains the episode records from our runs and the scripts that turn those records into the paper's tables and figures.
 
